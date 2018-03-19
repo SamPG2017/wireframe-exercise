@@ -1,0 +1,35 @@
+
+body {
+  background-color: #fff;
+  color: #000000;
+};
+
+h1 {
+  font-family: Arial, Verdana, serif; 
+  font-size: 18px;
+  text-align: left;
+};
+
+h2 {
+  font-family: Arial, Verdana, serif; 
+  font-size: 14px;
+};
+
+
+body nav ul li a {
+  width: 50;
+  padding: 10em 30em;
+  margin: 10em 30em;
+}
+
+body div #subbanners {
+  margin: 0em 2em;
+}
+
+p h2 {
+  word-wrap: break-word;
+}
+
+button {
+  float: left;
+}
